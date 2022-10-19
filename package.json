@@ -1,0 +1,8 @@
+{
+  "name": "typescript_Boilerplate",
+  "version": "0.0.1",
+  "description": "React Native Boilerplate for typescript having react-navigation6, redux-toolkit, rtk-query, error validations and many more things...",
+  "repository": "https://github.com/mehtabismail/typescript_Boilerplate.git",
+  "author": "MEHTAB ISMAIL <mehtab.16465@gmail.com>",
+  "license": "MIT"
+}
